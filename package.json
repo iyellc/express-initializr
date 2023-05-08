@@ -1,0 +1,12 @@
+{
+  "name": "express-initializr",
+  "version": "1.0.1",
+  "description": "Express initializer for my team!",
+  "main": "index.js",
+  "bin": "./bin/cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yiğit Gülay <Yigdo@Github>",
+  "license": "MIT"
+}
